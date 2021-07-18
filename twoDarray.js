@@ -29,6 +29,8 @@ const twoDarray = (arr) => {
         }
     }
 
+    debugger;
+
     const locationRows = zeroLocations;
     let value;
 
